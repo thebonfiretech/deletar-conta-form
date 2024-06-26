@@ -1,5 +1,5 @@
-# Forms Template
-Form Template é designado para a criação rápida de formulários personalizados a partir deste modelo pré-configurado.
+# Forms Exclusão de Conta
+Formulário designado para que os usuários solicitem a exclusão de sua conta.
 
 ## Tecnologias
 ### Linguagem de Programação:
@@ -12,9 +12,6 @@ Form Template é designado para a criação rápida de formulários personalizad
 
 
 ## Funcionalidades
-
-- modularização de conteúdo
-- template pronto
 - página de erro configurada
 - validação de dados
 
